@@ -3,3 +3,10 @@ git init
 git add hello_world.txt
 git commit -m "hello_world.txtを追加
 git commit -m "日本語を追加"
+git log
+
+commit baeee48c59c1903d426d0105560197e00ef37cee (HEAD -> main)
+Author: hachi-hatchi <yr78.kim@gmail.com>
+Date:   Sun Dec 15 10:41:33 2024 +0900
+
+    日本語を追記
